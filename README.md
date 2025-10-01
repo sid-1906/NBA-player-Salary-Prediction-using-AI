@@ -1,1 +1,3 @@
-# NBA-player-Salary-Prediction-using-AI
+# simple_streamlit_app
+
+![](Capture.PNG)
